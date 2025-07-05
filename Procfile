@@ -1,1 +1,1 @@
-Procfile
+python3 forwarder.py
